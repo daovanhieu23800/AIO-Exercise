@@ -1,4 +1,4 @@
-import torch
+import torch # type: ignore
 
 
 class Softmax(torch.nn.Module):
